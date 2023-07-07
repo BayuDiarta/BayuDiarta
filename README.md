@@ -1,11 +1,11 @@
-# Hi 👋, I'm Bayu
+bu# Hi 👋, I'm Bayu
 A passionate backend engineer from Indonesia. Familiar with PHP, Laravel framework, Lumen microframework.
 
 ## Current activity
 - 🌱 I’m currently learning Golang
 - 💼 I majored in software engineering
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me fiyuangdev@gmail.com
+- 📫 How to reach me fiuyangdev@gmail.com
 
 Thank's All
 ## <img alt="cover-github" src="https://github.com/Whyu9-9/Whyu9-9/blob/master/cover1.png">
@@ -22,7 +22,6 @@ Thank's All
 ## Github Performance Overall
 <div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bayudiarta&show_icons=true&locale=en&layout=compact&theme=radical" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Bayudiarta&show_icons=true&theme=radical&locale=en" width="395" /></p>
 </div>
 
 <!--
