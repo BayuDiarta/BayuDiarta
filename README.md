@@ -1,40 +1,31 @@
-# <p align="center"> Hi 👋, I`m Bayu </p>
-## <p align="center">  A passionate backend engineer from Indonesia. Familiar with PHP, Laravel framework, Lumen microframework. </p>
+# <p align="center"> Hi👋, I'm Bayu </p>
+
+## <p align="center"> A passionate backend engineer from Indonesia. Familiar with PHP, Go, Fiber, Gin-Gonic, Echo, Laravel framework, Lumen microframework. </p>
 
 ## Current activity
-- 🌱 I’m currently learning Golang
 - 💼 I majored in software engineering
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me fiuyangdev@gmail.com
+- 📫 How to reach me bagusbayu270@gmail.com
 
-Thank's All
-## <img alt="cover-github" src="https://github.com/Whyu9-9/Whyu9-9/blob/master/cover1.png">
+![Fiuyang github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fiuyang&theme=tokyo-night)
+
+## <p align="center"> <img alt="cover-github" src="https://github.com/Whyu9-9/Whyu9-9/blob/master/cover1.png"> </p>
+
+## 🔧 Technologies & Tools
 <p align="center">
-<img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white">
-<img src="https://img.shields.io/badge/lumen%20-%23FF2D20.svg?&style=for-the-badge&logo=lumen&logoColor=white">
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-<img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white">  
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/postgresql-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white">
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=golang,php,js,ts,nodejs,nest,laravel,mysql,postgres,git,docker&perline=20" />
+  </a>
 </p>
 
-## Github Performance Overall
-<div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bayudiarta&show_icons=true&locale=en&layout=compact&theme=radical" /></p>
-</div>
+### ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+<a href="https://github.com/byuang">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=byuang&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=byuang&hide_border=true&cache_seconds=1800&layout=compact&langs_count=8&theme=tokyonight"/> 
+  <br/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=byuang&theme=buefy-dark&hide_border=true&background=1a1b27"/>
+  </a>
+</p>
 
-<!--
-**BayuDiarta/BayuDiarta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
